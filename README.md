@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
    Navigate to the project root directory and install the required packages for both the frontend and backend:
 
    ```bash
-   cd todo-list-application
+   cd todo-app
    cd client
    npm install
    cd ../server
