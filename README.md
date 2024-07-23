@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/todo-list-application.git
+   git clone https://github.com/harxite/ToDoApp.git
    ```
 
 2. **Install Dependencies:**
