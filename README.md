@@ -26,16 +26,16 @@ To run this project locally, follow these steps:
 
    ```bash
    cd todo-app
-   cd client
+   cd clientSide
    npm install
-   cd ../server
+   cd ../serverSide
    npm install
    ```
 
 3. **Start the Backend Server:**
 
    ```bash
-   cd server
+   cd serverSide
    npm start
    ```
 
@@ -46,7 +46,7 @@ To run this project locally, follow these steps:
    Open a new terminal, navigate to the frontend directory, and start the application:
 
    ```bash
-   cd client
+   cd clientSide
    npm start
    ```
 
